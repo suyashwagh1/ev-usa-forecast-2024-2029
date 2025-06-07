@@ -1,2 +1,10 @@
-# ev-usa-forecast-2024-2029
-Forecasting Electric Vehicle (EV) sales in the United States from 2025 to 2030 using historical data and data science techniques. This project includes time series modeling, trend analysis, and key insights into the future growth of the EV market in the U.S.
+EV Sales Forecast USA (2025–2030)
+This project accurately forecasts Electric Vehicle (EV) sales in the United States for 2025–2029 using real-world data, cutting-edge time series models, and business insight. A powerful blend of data science and sustainable innovation.
+Why This Project Stands Out
+ Real-world forecasting: Predicts EV trends using ARIMA/Prophet models
+
+ Data-driven storytelling: Extracts insights that matter to stakeholders
+
+ Sustainability-focused: Supports EV market decisions in a clean-energy era
+
+ Interview-ready: Showcases advanced forecasting, visualization & modeling skills
